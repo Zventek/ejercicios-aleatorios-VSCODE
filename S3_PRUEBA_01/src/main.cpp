@@ -15,5 +15,5 @@ void loop() {
   
   // Apagar el LED
   digitalWrite(ledPin, LOW);
-  delay(1000); // Esperar 1 segundo
+  delay(500); // Esperar 1 segundo
 }
